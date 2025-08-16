@@ -16,7 +16,5 @@ My name is Kashish and I work as a MLOps engineer at Aftershoot. My primary prog
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumawat1503&show_icons=true&locale=en&layout=compact" alt="kumawat1503" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawat1503&show_icons=true&locale=en" alt="kumawat1503" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumawat1503&" alt="kumawat1503" /></p>
 
