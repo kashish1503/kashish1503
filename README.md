@@ -1,11 +1,11 @@
 # Hi, I'm Kashish <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Kashish and I work as a MLOps engineer at Aftershoot. My primary programming languages are Python and C++. In my free time, I enjoy playing chess and traveling. Feel free to connect with me on my social media platforms.
+My name is Kashish and I work as a MLOps engineer at Aftershoot. My primary programming languages are Python and C++. Feel free to connect with me on my social media platforms.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kashish-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashish-kumawat-539757226/)](https://www.linkedin.com/in/kashish-kumawat-539757226/)
 [![Gmail Badge](https://img.shields.io/badge/-kashkumawat9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kashkumawat9@gmail.com)](mailto:kashkumawat9@gmail.com)
 
-- 🔭 I’m currently working on **Deterministic training**
+- 🔭 I’m currently working on **building ML pipelines**
 
 - 💬 Ask me about **Python, C++, Data Structures and Algorithms**
 
