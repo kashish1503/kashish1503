@@ -7,6 +7,8 @@ My name is Kashish and I work as a MLOps engineer at Aftershoot. My primary prog
 
 - 🔭 I’m currently working on **building ML pipelines**
 
+- 📚 I’m currently exploring **Formal Verification Engineering**
+
 - 💬 Ask me about **Python, C++, Data Structures and Algorithms**
 
 - 📫 How to reach me **kashkumawat9@gmail.com**
